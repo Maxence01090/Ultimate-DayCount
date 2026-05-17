@@ -1,0 +1,17 @@
+# Ultimate Daycount Plugin Configuration
+
+# Plugin language (en or fr)
+language: en
+
+# Enable debug logs
+debug: false
+
+# Pause time when no players are online
+pause-time-when-empty: true
+
+# Messages
+messages:
+  en:
+    format: "&6[Ultimate Daycount] &bDays passed: &a{days} day(s)"
+  fr:
+    format: "&6[Ultimate Daycount] &bJours passés: &a{days} jour(s)"

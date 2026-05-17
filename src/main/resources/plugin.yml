@@ -1,0 +1,12 @@
+name: UltimateDaycount
+version: 1.0.0
+main: com.daycount.DayCount
+description: Track the number of in-game days on your server
+authors: []
+api-version: "1.21"
+
+commands:
+  daycount:
+    description: Shows the number of days passed
+    usage: /daycount
+    aliases: [dc]
