@@ -1,6 +1,7 @@
 # Ultimate Daycount
 
-[![Available on Modrinth](https://img.shields.io/badge/Available%20on-Modrinth-00c070?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/plugin/ultimatedaycount)
+[![Available on Modrinth](https://img.shields.io/badge/Available%20on-Modrinth-00c070?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/plugin/ultimatedaycount) [![Discord](https://img.shields.io/badge/Discord-Add%20me%20for%20help-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/979794920875360286)
+
 
 A lightweight Paper plugin that tracks the number of in-game days on your Minecraft server. Simple, fast, and fully configurable.
 
